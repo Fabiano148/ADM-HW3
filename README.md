@@ -1,5 +1,5 @@
 # ADM-HW3
-## In HW3_Fabiano_Evangelista-Consegna.ipynb/HW3_Fabiano_Evangelista-Consegna.py you can find the code for Homework 3.
+## In HW3_Fabiano_Evangelista-Consegna.ipynb/HW3_Fabiano_Evangelista-Consegna.py you can find the code for Homework 3 (https://nbviewer.jupyter.org/github/Fabiano148/ADM-HW3/blob/main/HW3_Fabiano_Evangelista-Consegna.ipynb).
 
 ## You can find some screenshots and files that show how files are saved:
 ### "Micro_Directory.PNG" shows the first directory. Here I save the List_of_url.txt, the directories for every best books ever list's page, the vocabulary.json, the inverted_index.json, the Output.tsv.
